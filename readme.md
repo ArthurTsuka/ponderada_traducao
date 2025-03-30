@@ -14,8 +14,8 @@ Para o japonês e pro Chinês em que não possui o espaço entre as palavras, a 
 
 ### Texto em japonês
 
-![Texto em japones](img/citacoes-em-japones-e-traducoes-em-ingles_503645-569.webp)
+![Texto em japones](traducao_automatica/img/citacoes-em-japones-e-traducoes-em-ingles_503645-569.webp)
 
 ### Texto em Chinês
 
-![Texto em japones](img/learning-chinese.webp)
+![Texto em japones](traducao_automatica/img/learning-chinese.webp)
